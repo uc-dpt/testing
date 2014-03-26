@@ -20,9 +20,9 @@ function displayTable($i){
 		echo "row => " . $i . "*" . $j . " = " . $i * $j . "<br />";
 	}
 }
-echo "Removed error";
+
 displayTable(2);
-echo "added";
 
 echo "Hello this is added today by deepika";
+
 ?>
